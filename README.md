@@ -3,7 +3,6 @@
 AI-powered chatbot untuk membantu proses belajar dengan teknologi **RAG (Retrieval-Augmented Generation)**.
 User dapat mengunggah PDF materi kuliah lalu bertanya langsung kepada AI berdasarkan isi dokumen.
 
----
 
 ## ✨ Features
 
@@ -14,7 +13,6 @@ User dapat mengunggah PDF materi kuliah lalu bertanya langsung kepada AI berdasa
 * 💬 Riwayat percakapan
 * ⚡ Fast & responsive UI
 
----
 
 ## 🛠 Tech Stack
 
@@ -25,7 +23,6 @@ User dapat mengunggah PDF materi kuliah lalu bertanya langsung kepada AI berdasa
 * OpenAI API
 * Vector Database
 
----
 
 ## 🚀 Installation
 
@@ -62,7 +59,6 @@ Open:
 http://localhost:3000
 ```
 
----
 
 ## 🧠 How It Works
 
@@ -72,7 +68,6 @@ http://localhost:3000
 4. AI mencari context relevan
 5. Chatbot menjawab berdasarkan isi dokumen
 
----
 
 ## 📌 Example Questions
 
@@ -80,13 +75,6 @@ http://localhost:3000
 * “Apa pengertian algoritma?”
 * “Buat rangkuman materi ini”
 
----
-
-## 📄 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
