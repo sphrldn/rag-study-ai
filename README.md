@@ -78,4 +78,4 @@ http://localhost:3000
 
 ## 👨‍💻 Author
 
-Developed by [Saphira Aldyna Masik].
+Developed by sphrldn
