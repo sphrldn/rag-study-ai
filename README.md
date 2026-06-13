@@ -360,18 +360,6 @@ Jika jawaban **tidak ditemukan** di dokumen:
 
 ---
 
-## Kontribusi
-
-Pull request sangat diterima! Untuk perubahan besar, buka issue terlebih dahulu untuk diskusi.
-
-1. Fork repository
-2. Buat branch fitur (`git checkout -b feature/fitur-baru`)
-3. Commit perubahan (`git commit -m 'feat: tambah fitur baru'`)
-4. Push ke branch (`git push origin feature/fitur-baru`)
-5. Buka Pull Request
-
----
-
 ## Lisensi
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
